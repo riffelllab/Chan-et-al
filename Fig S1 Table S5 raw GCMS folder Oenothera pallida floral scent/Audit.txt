@@ -1,0 +1,24 @@
+D:\Jeremy\Chromatograms\20170705 170630 field\170701_OPall2_smp.D\Audit.txt 
+Created Thu Jul 06 15:11:42 2017
+
+
+ Modified : Thu Jul 06 15:11:43 2017
+ Event    : Quantitation 
+ Message  : Calculation using initial calibration
+ QuantFile: MARIE_FLOWERSAMPLES_110802.RES
+ Severity : 0
+
+
+ Modified : Thu Jul 06 15:13:40 2017
+ Event    : Quantitation 
+ Message  : Calculation using initial calibration
+ QuantFile: MARIE_FLOWERSAMPLES_110802.RES
+ Severity : 0
+
+
+ Modified : Mon Oct 14 16:33:45 2019
+ Event    : Quantitation 
+ Message  : Calculation using initial calibration
+ QuantFile: MARIE_FLOWERSAMPLES_110802.RES
+ Severity : 0
+

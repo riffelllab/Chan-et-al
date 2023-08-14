@@ -1,0 +1,172 @@
+                            INSTRUMENT CONTROL PARAMETERS:    Hyles
+                            ---------------------------------------
+
+   D:\JEREMY\METHODS\20170626_JEREMY_SLOWRAMP3_AUTO_3UL.M
+      Thu Jul 06 00:46:31 2017
+
+Control Information
+------- -----------
+
+Sample Inlet      :  GC
+Injection Source  :  CTC PAL ALS
+Mass Spectrometer :  Enabled
+
+============================================================================
+                                CTCPAL METHOD
+============================================================================
+                    Injection Volume: 3.00 ul
+                        Syringe Size: 10ul
+                          Cycle File: GC-Inj-Fill Set R3
+
+                                CYCLE DETAILS
+                               ---------------
+                     Air Volume (µl): 1
+         Pre Clean with Solvent 1 (): 1
+         Pre Clean with Solvent 2 (): 0
+                    Solvent Fill (%): 80
+            Pre Clean with Sample (): 0
+                    Sample Fill (µl): 0
+                Filling Speed (µl/s): 2
+                  Filling Strokes (): 5
+                           Inject to: GC Inj1
+              Injection Speed (µl/s): 50
+               Pre Inject Delay (ms): 500
+              Post Inject Delay (ms): 500
+        Post Clean with Solvent 1 (): 5
+        Post Clean with Solvent 2 (): 0
+                   Pullup Delay (ms): 5000
+
+ No Sample Prep method has been assigned to this method.
+
+Oven
+Equilibration Time                           0.25 min
+Max Temperature                              325 degrees C
+Slow Fan                                     Disabled
+Oven Program                                 On
+    45 °C for 4 min
+    then 5 °C/min to 150 °C for 0 min
+    then 15 °C/min to 300 °C for 2.5 min
+Run Time                                     37.5 min
+
+
+
+
+Sample Overlap
+Sample overlap is not enabled
+
+
+
+Front SS Inlet He
+Mode                                         Splitless
+Heater                                       On    220 °C
+Pressure                                     On    10 psi
+Total Flow                                   On    104.25 mL/min
+Septum Purge Flow                            On    3 mL/min
+Gas Saver                                    On    20 mL/min After 3 min
+Purge Flow to Split Vent                     100 mL/min at 0.5 min
+
+
+Thermal Aux 2 {MSD Transfer Line}
+Heater                                       On
+Temperature Program                          On
+    280 °C for 0 min
+Run Time                                     37.5 min
+
+
+Column #1
+Agilent 19091S-433: 93.92873
+HP-5MS  5% Phenyl Methyl Silox
+325 °C: 30 m x 250 µm x 0.25 µm
+In: Front SS Inlet He
+Out: Vacuum
+
+(Initial)                                    45 °C
+Pressure                                     10 psi
+Flow                                         1.2536 mL/min
+Average Velocity                             40.703 cm/sec
+Holdup Time                                  1.2284 min
+Pressure Program                             On
+    10 psi for 0 min
+Run Time                                     37.5 min
+
+
+
+Valve 1
+Gas Sampling Valve                           Off
+GSV Loop Volume                              1 mL
+Load Time                                    0.5 min
+Inject Time                                  0.5 min
+
+Signals
+ Test Plot                                   Save Off
+                                             50 Hz
+ Test Plot                                   Save Off
+                                             50 Hz
+ Test Plot                                   Save Off
+                                             50 Hz
+ Test Plot                                   Save Off
+                                             50 Hz
+
+                                MS ACQUISITION PARAMETERS
+
+
+General Information
+------- -----------
+
+Tune File                : atune_150612.u
+Acquistion Mode          : Scan
+
+
+MS Information
+-- -----------
+
+Solvent Delay            : 3.80 min
+
+EMV Mode                 : Gain Factor
+Gain Factor              : 3.00
+Resulting EM Voltage     : 1694
+
+[Scan Parameters]
+
+Low Mass                 : 45.0
+High Mass                : 600.0
+Threshold                : 150
+Sample #                 : 2       A/D Samples    4
+
+[MSZones]
+
+MS Source                : 230 C   maximum 250 C
+MS Quad                  : 150 C   maximum 200 C
+
+
+                             END OF MS ACQUISITION PARAMETERS
+
+
+                              TUNE PARAMETERS for SN: US10273609
+                        -----------------------------
+
+ Trace Ion Detection is OFF.
+
+ EMISSION    :      34.610
+ ENERGY      :      69.922
+ REPELLER    :      22.752
+ IONFOCUS    :      90.157
+ ENTRANCE_LE :      32.000
+ EMVOLTS     :    1670.588
+                               Actual EMV  :    1694.12
+                               GAIN FACTOR :       3.02
+ AMUGAIN     :    1846.000
+ AMUOFFSET   :     121.688
+ FILAMENT    :       1.000
+ DCPOLARITY  :       0.000
+ ENTLENSOFFS :      16.565
+ MASSGAIN    :    -875.000   
+ MASSOFFSET  :     -41.000   
+
+                           END OF TUNE PARAMETERS
+                      ------------------------------------
+
+
+
+                              END OF INSTRUMENT CONTROL PARAMETERS
+                              ------------------------------------

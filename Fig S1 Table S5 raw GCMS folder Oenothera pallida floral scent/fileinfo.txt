@@ -1,0 +1,22 @@
+
+           Data File Information
+
+     Data File     : D:\Jeremy\Chromatograms\20170705 170630 field\170701_OPall2_smp.D\data.ms
+     Operator:     :  Jkchan
+     Acquired On   :   6 Jul 2017  00:08    
+     Instrument    :  Hyles
+     Method File   :  20170626_JEREMY_SLOWRAMP3_AUTO_3UL.M
+     Sample Name   :  170701_OPall2_smp
+     Misc Info     :   
+     Vial Number   :  8
+     Sample Mult.  :  1.00
+     Sample Amount :  0.00
+     Exp. Barcode  :   
+     Act.  Barcode :   
+
+
+
+     Files in Data Directory
+
+
+     * = File time stamp is before latest quant update

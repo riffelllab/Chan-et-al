@@ -1,0 +1,10 @@
+D:\Jeremy\Chromatograms\20180112 2MBaldoxime\20180112_2MBaldoxime_10kdil.D\Audit.txt 
+Created Fri Jan 12 15:25:59 2018
+
+
+ Modified : Fri Jan 12 15:25:59 2018
+ Event    : Quantitation 
+ Message  : Calculation using initial calibration
+ QuantFile: MARIE_FLOWERSAMPLES_110802.RES
+ Severity : 0
+

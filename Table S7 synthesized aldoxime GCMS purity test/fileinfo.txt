@@ -1,0 +1,23 @@
+
+           Data File Information
+
+     Data File     : D:\Jeremy\Chromatograms\20180112 2MBaldoxime\20180112_2MBaldoxime_10kdil
+...                  .D\data.ms
+     Operator:     :  Jkchan
+     Acquired On   :  12 Jan 2018  14:44    
+     Instrument    :  Hyles
+     Method File   :  20170626_JEREMY_SLOWRAMP3_AUTO_3UL.M
+     Sample Name   :  20180112_2MBaldoxime_10kdil
+     Misc Info     :   
+     Vial Number   :  1
+     Sample Mult.  :  1.00
+     Sample Amount :  0.00
+     Exp. Barcode  :   
+     Act.  Barcode :   
+
+
+
+     Files in Data Directory
+
+
+     * = File time stamp is before latest quant update

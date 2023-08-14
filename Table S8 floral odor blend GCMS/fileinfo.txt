@@ -1,0 +1,23 @@
+
+           Data File Information
+
+     Data File     : D:\Jeremy\Chromatograms\20201105_170701_OPall2n_blend8\20201105_170701_O
+...                  PALL2N_BLEND8_2MIN.D\data.ms
+     Operator:     :  JC
+     Acquired On   :   5 Nov 2020  10:22    
+     Instrument    :  Hyles
+     Method File   :  20200831_JEREMY_SLOWRAMP4_MANUAL_3UL.M
+     Sample Name   :  20201105_170701_OPALL2N_BLEND8_2min
+     Misc Info     :   
+     Vial Number   :  1
+     Sample Mult.  :  1.00
+     Sample Amount :  0.00
+     Exp. Barcode  :   
+     Act.  Barcode :   
+
+
+
+     Files in Data Directory
+
+
+     * = File time stamp is before latest quant update

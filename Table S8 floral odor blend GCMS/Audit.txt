@@ -1,0 +1,10 @@
+D:\Jeremy\Chromatograms\20201105_170701_OPall2n_blend8\20201105_170701_OPALL2N_BLEND8_2MIN.D\Audit.txt 
+Created Thu Nov 05 13:50:37 2020
+
+
+ Modified : Thu Nov 05 13:50:37 2020
+ Event    : Quantitation 
+ Message  : Calculation using initial calibration
+ QuantFile: MARIE_FLOWERSAMPLES_110802.RES
+ Severity : 0
+
